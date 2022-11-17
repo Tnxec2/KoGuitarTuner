@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KoGuitarTuner</string>
+    <string name="astring">A-String</string>
+    <string name="estring">E-String</string>
+    <string name="dstring">D-String</string>
+    <string name="gstring">G-String</string>
+    <string name="bstring">B-String</string>
+    <string name="eestring">E-String</string>
+    <string name="note">Note</string>
+    <string name="auto">auto</string>
+    <string name="d">D</string>
+    <string name="a">A</string>
+    <string name="e">E</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="ee">E</string>
+</resources>
